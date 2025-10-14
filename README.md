@@ -52,7 +52,7 @@ By integrating **Python (EDA)**, **SQL (data extraction)**, and **Power BI (visu
 ---
 
 ## Dashboard Image
-[image alt](https://github.com/Maher12-hub/Sales-Data-Analysis-Project-With-Python-Sql-and-Power-BI.-/blob/554b2016a4ea32bd3940acad9ea8daeacc363c6a/Sales%20Data%20Analysis%20Dashboard%20Screenshots.png)
+![image alt](https://github.com/Maher12-hub/Sales-Data-Analysis-Project-With-Python-Sql-and-Power-BI.-/blob/554b2016a4ea32bd3940acad9ea8daeacc363c6a/Sales%20Data%20Analysis%20Dashboard%20Screenshots.png)
 
 ---
 
