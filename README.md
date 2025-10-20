@@ -1,4 +1,4 @@
-# 🧾 Sales Data Analysis with Python, SQL & Power BI
+#  Sales Data Analysis with Python, SQL & Power BI
 
 ##  Project Objective
 This project analyzes Company’s sales data (2014–2018) to uncover key revenue and profit drivers across **products, sales channels, and regions**. The goal is to identify:
